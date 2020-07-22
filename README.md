@@ -1,8 +1,8 @@
 # PestoFreaks Instabot
 
-This is the brain for an instagram bot of a page I created called [Pesto Freaks](https://www.instagram.com/pestofreaks/). The idea is to automate the content creation for Instagram and see the traction it gets in the future.
+This is the brain for an instagram bot I created for a page called [Pesto Freaks](https://www.instagram.com/pestofreaks/). The idea is to automate the content creation for Instagram and see the traction it gets in the future.
 
-The app is run through a Cron job in my local server different times a day using the `run_gh.sh` script.
+The app runs through a Cron job in my local server different times a day using the `run_gh.sh` script.
 
 ---
 
