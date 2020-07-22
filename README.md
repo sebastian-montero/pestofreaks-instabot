@@ -32,6 +32,10 @@ The steps it takes are the following:
 7. Upload the images with a random caption from a library of captions I came up with making sure to call the original poster out
 8. Finally I upload a random quote from a library of corny jokes I came up with.
 
-Here's an image of the page:
+---
+
+### Screenshot
+
+Here's an image of the page. All posts are posted automatically.
 
 ![](assets/ss.png)
