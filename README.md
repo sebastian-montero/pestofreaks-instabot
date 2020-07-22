@@ -33,4 +33,5 @@ The steps it takes are the following:
 8. Finally I upload a random quote from a library of corny jokes I came up with.
 
 Here's an image of the page:
+
 ![](assets/ss.png)
